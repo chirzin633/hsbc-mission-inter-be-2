@@ -1,4 +1,3 @@
-// const userModel = require('../models/userModel');
 const userService = require('../services/userService');
 
 async function getAllUsers(req, res) {
